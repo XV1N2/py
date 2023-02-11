@@ -10,4 +10,3 @@ for i in range():
     else:
         print(f"Incorrect, Choice {chc} Answer {ans}")
         os.system("PAUSE")
-    return
